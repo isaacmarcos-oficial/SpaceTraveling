@@ -37,13 +37,3 @@ Link do [desafio complementar](https://www.notion.so/Desafio-02-Adicionando-feat
   <td>  <img src="https://img.shields.io/badge/prismic-%235163BA.svg?&style=for-the-badge&logo=prismic&logoColor=61DAFB" /> </td>
 <tr>
 </table>
-&nbsp;
-
-
-
-## 📝 Licença.
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/space-traveling/blob/master/LICENSE) para detalhes.
-
-
----
